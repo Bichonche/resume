@@ -1,0 +1,54 @@
+{
+  "entries": [
+    {
+      "name": "Orange Applications for Business",
+      "date": "Avril 2017 - Septembre 2017",
+      "short": "Rennes, France",
+      "long": "Stage : conception et mise en place d'un module d'indexation de documents dans Elasticsearch. Métrologie sur différentes plateformes. Programmation agile. Ansible, Docker, JEE."
+    },
+    {
+      "name": "IGR-IAE",
+      "date": "2016-2017",
+      "short": "Master Management et stratégies des organisations, Rennes, France",
+      "long": "Management, gestion, comptabilité, logistique, droit, ressources humaines"
+    },
+    {
+      "name": "Atos Worldine",
+      "date": "Juillet 2016 - Septembre 2016",
+      "short": "Constance, Allemagne",
+      "long": "Stage : mise en place d'une API REST d'un service de l'entreprise, afin de l'exposer à leurs clients. Conception, gestion de l'authentification, tests unitaires. JEE."
+    },
+    {
+      "name": "ENSSAT",
+      "date": "2014-2017",
+      "short": "Diplôme d'ingénieur en informatique, Lannion",
+      "long": "Programmation itérative, programmation orientée objet, réseaux, bases de données, technologies web"
+    },
+    {
+      "name": "PSI",
+      "date": "2013-2014",
+      "short": "Lycée Rabelais, Saint-Brieuc",
+      "long": "Mathématiques, sciences physiques, Sciences de l'ingénieur"
+    },
+    {
+      "name": "MPSI",
+      "date": "2012-2013",
+      "short": "Lycée Rabelais, Saint-Brieuc",
+      "long": "Mathématiques, sciences physiques, Sciences de l'ingénieur"
+    },
+    {
+      "name": "Baccalauréat",
+      "date": "2012",
+      "short": "Lycée de Kérichen, Brest",
+      "long": "Baccalauréat S-SVT mention assez bien, option anglais européen, spécialité mathématiques"
+    }
+  ],
+  "about" : "                    Je suis actuellement un étudiant de 22 ans en études d'ingénieur en informatique ainsi qu'en master administration des entreprises, et ai depuis toujours été intéressé par les nouvelles technologies. C'est donc tout naturellement que je me suis tourné vers l'informatique, et plus particulièrement les technologies liées à Internet. J'aimerais faire de cette passion mon métier, afin de fournir de nombreux services au plus grand nombre.",
+  "contact" : [
+    {
+      "type" : "email", "value" : "corentin [at] normand [dot] bzh"
+    },{
+      "type" : "phone", "value" : "(+33) 06 24 32 36 84"
+    }
+  ]
+}
