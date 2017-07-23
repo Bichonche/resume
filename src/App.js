@@ -16,7 +16,7 @@ class App extends Component {
     return (
       <div className="App">
             <Header/>
-           <Body data={json} />
+           <Body json={json} />
           <Footer/>
       </div>
     );

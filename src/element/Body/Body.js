@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import About from '../../element/About/About';
 import Contact from '../../element/Contact/Contact';
 import Entries from '../../element/Entries/Entries';
+import Technologies from '../../element/Technologies/Technologies';
 
 
 class Body extends Component {
@@ -9,14 +10,13 @@ class Body extends Component {
         return (
             <div className="container">
                 <div className="row">
-                <About/>
-                <Contact/>
+                <About about={this.props.json.about}/>
+                <Contact contact={this.props.json.contact}/>
                 </div>
                 <hr/>
-                <div className="row">
-                    <Entries data={this.props.data.entries}/>
-                </div>
+                    <Entries entries={this.props.json.entries}/>
                 <hr/>
+                    <Technologies technologies={this.props.json.technologies}/>
             </div>
         );
     }

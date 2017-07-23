@@ -7,7 +7,7 @@ class Entries extends Component {
             <div className="row">
                 <h2>Curriculum Vit&aelig;</h2>
                 <ul className="timeline">
-                    {this.props.data.map(e => <Entry entry={e}/>)}
+                    {this.props.entries.map(e => <Entry entry={e}/>)}
                 </ul>
             </div>
         );

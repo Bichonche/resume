@@ -1,4 +1,12 @@
 {
+  "about" : "Je suis actuellement un étudiant de 23 ans en études d'ingénieur en informatique ainsi qu'en master administration des entreprises, et ai depuis toujours été intéressé par les nouvelles technologies. C'est donc tout naturellement que je me suis tourné vers l'informatique, et plus particulièrement les technologies liées à Internet. J'aimerais faire de cette passion mon métier, afin de fournir de nombreux services au plus grand nombre.",
+  "contact" : [
+    {
+      "type" : "email", "value" : "corentin [at] normand [dot] bzh"
+    },{
+      "type" : "phone", "value" : "(+33) 06 24 32 36 84"
+    }
+  ],
   "entries": [
     {
       "name": "Orange Applications for Business",
@@ -43,12 +51,8 @@
       "long": "Baccalauréat S-SVT mention assez bien, option anglais européen, spécialité mathématiques"
     }
   ],
-  "about" : "                    Je suis actuellement un étudiant de 22 ans en études d'ingénieur en informatique ainsi qu'en master administration des entreprises, et ai depuis toujours été intéressé par les nouvelles technologies. C'est donc tout naturellement que je me suis tourné vers l'informatique, et plus particulièrement les technologies liées à Internet. J'aimerais faire de cette passion mon métier, afin de fournir de nombreux services au plus grand nombre.",
-  "contact" : [
-    {
-      "type" : "email", "value" : "corentin [at] normand [dot] bzh"
-    },{
-      "type" : "phone", "value" : "(+33) 06 24 32 36 84"
-    }
+  "technologies" : [
+    "[Java](https://java.net/)",
+    "[Java](https://java.net/)"
   ]
 }
